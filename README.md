@@ -6,7 +6,7 @@ A mobile-first African-inspired first-person game of music, balance, and ancestr
 
 ## 🌐 Play Live
 
-[Play on GitHub Pages](https://YOUR_USERNAME.github.io/vuvu-nkanyezi/)
+[Play on GitHub Pages](https://ogulwa_beep.github.io/vuvu-nkanyezi/)
 
 ## 🎮 Controls
 
